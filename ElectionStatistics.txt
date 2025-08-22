@@ -1,0 +1,671 @@
+Election Results Summary
+========================================
+Party Statistics:
+Lab: 7597968 votes
+SNP: 142939 votes
+Con: 2120108 votes
+RUK: 80370 votes
+LD: 1616862 votes
+DUP: 80063 votes
+SF: 152320 votes
+SDLP: 36992 votes
+Ind: 0 votes
+Green: 95551 votes
+PC: 69636 votes
+Spk: 0 votes
+APNI: 18618 votes
+TUV: 0 votes
+UUP: 16311 votes
+
+Constituency Statistics:
+Aberafan Maesteg: 72580 registered voters, 17838 votes cast
+Aberdeen North: 75925 registered voters, 14533 votes cast
+Aberdeen South: 77328 registered voters, 15213 votes cast
+Aberdeenshire North and Moray East: 70058 registered voters, 13455 votes cast
+Airdrie and Shotts: 70199 registered voters, 18871 votes cast
+Aldershot: 78553 registered voters, 19764 votes cast
+Aldridge-Brownhills: 70268 registered voters, 15901 votes cast
+Alloa and Grangemouth: 70680 registered voters, 18039 votes cast
+Altrincham and Sale West: 74025 registered voters, 20798 votes cast
+Alyn and Deeside: 75790 registered voters, 18395 votes cast
+Amber Valley: 71546 registered voters, 15746 votes cast
+Angus and Perthshire Glens: 76668 registered voters, 19142 votes cast
+Arbroath and Broughty Ferry: 76149 registered voters, 15581 votes cast
+Argyll  Bute and South Lochaber: 71756 registered voters, 15582 votes cast
+Arundel and South Downs: 77969 registered voters, 22001 votes cast
+Ashfield: 68929 registered voters, 17062 votes cast
+Ashford: 76233 registered voters, 15262 votes cast
+Ashton-under-Lyne: 71002 registered voters, 15575 votes cast
+Aylesbury: 79169 registered voters, 15081 votes cast
+Ayr  Carrick and Cumnock: 70340 registered voters, 14930 votes cast
+Banbury: 73250 registered voters, 18468 votes cast
+Bangor Aberconwy: 70527 registered voters, 14008 votes cast
+Barking: 79822 registered voters, 16227 votes cast
+Barnsley North: 78274 registered voters, 18610 votes cast
+Barnsley South: 75853 registered voters, 16399 votes cast
+Barrow and Furness: 74980 registered voters, 18537 votes cast
+Basildon and Billericay: 76873 registered voters, 12905 votes cast
+Basingstoke: 78487 registered voters, 20922 votes cast
+Bassetlaw: 78161 registered voters, 18476 votes cast
+Bath: 69662 registered voters, 19883 votes cast
+Bathgate and Linlithgow: 72185 registered voters, 19774 votes cast
+Battersea: 72827 registered voters, 22983 votes cast
+Beaconsfield: 72751 registered voters, 18494 votes cast
+Beckenham and Penge: 77198 registered voters, 25753 votes cast
+Bedford: 72478 registered voters, 18342 votes cast
+Belfast East: 72917 registered voters, 19894 votes cast
+Belfast North: 74240 registered voters, 17674 votes cast
+Belfast South and Mid Down: 74749 registered voters, 21345 votes cast
+Belfast West: 75346 registered voters, 21009 votes cast
+Bermondsey and Old Southwark: 69482 registered voters, 16857 votes cast
+Berwickshire  Roxburgh and Selkirk: 76438 registered voters, 18872 votes cast
+Bethnal Green and Stepney: 81439 registered voters, 15896 votes cast
+Beverley and Holderness: 71994 registered voters, 15501 votes cast
+Bexhill and Battle: 72198 registered voters, 16186 votes cast
+Bexleyheath and Crayford: 70297 registered voters, 15717 votes cast
+Bicester and Woodstock: 74353 registered voters, 19419 votes cast
+Birkenhead: 78091 registered voters, 22468 votes cast
+Birmingham Edgbaston: 71787 registered voters, 16599 votes cast
+Birmingham Erdington: 77463 registered voters, 14774 votes cast
+Birmingham Hall Green and Moseley: 76936 registered voters, 12798 votes cast
+Birmingham Hodge Hill and Solihull North: 77737 registered voters, 10655 votes cast
+Birmingham Ladywood: 83693 registered voters, 15558 votes cast
+Birmingham Northfield: 74048 registered voters, 14929 votes cast
+Birmingham Perry Barr: 76350 registered voters, 0 votes cast
+Birmingham Selly Oak: 75678 registered voters, 17371 votes cast
+Birmingham Yardley: 73203 registered voters, 11275 votes cast
+Bishop Auckland: 70745 registered voters, 17036 votes cast
+Blackburn: 73263 registered voters, 0 votes cast
+Blackley and Middleton South: 72303 registered voters, 16864 votes cast
+Blackpool North and Fleetwood: 73339 registered voters, 16744 votes cast
+Blackpool South: 77460 registered voters, 16916 votes cast
+Blaenau Gwent and Rhymney: 70153 registered voters, 16027 votes cast
+Blaydon and Consett: 70487 registered voters, 21160 votes cast
+Blyth and Ashington: 76595 registered voters, 20030 votes cast
+Bognor Regis and Littlehampton: 76854 registered voters, 15678 votes cast
+Bolsover: 77207 registered voters, 17197 votes cast
+Bolton North East: 80011 registered voters, 16166 votes cast
+Bolton South and Walkden: 79622 registered voters, 15093 votes cast
+Bolton West: 74933 registered voters, 17363 votes cast
+Bootle: 73037 registered voters, 26729 votes cast
+Boston and Skegness: 75811 registered voters, 15520 votes cast
+Bournemouth East: 72354 registered voters, 18316 votes cast
+Bournemouth West: 70259 registered voters, 14365 votes cast
+Bracknell: 71660 registered voters, 14783 votes cast
+Bradford East: 75164 registered voters, 14098 votes cast
+Bradford South: 70999 registered voters, 11833 votes cast
+Bradford West: 77897 registered voters, 11724 votes cast
+Braintree: 77673 registered voters, 17414 votes cast
+Brecon  Radnor and Cwm Tawe: 73114 registered voters, 13736 votes cast
+Brent East: 77547 registered voters, 19370 votes cast
+Brent West: 80027 registered voters, 17258 votes cast
+Brentford and Isleworth: 79423 registered voters, 20007 votes cast
+Brentwood and Ongar: 75352 registered voters, 17731 votes cast
+Bridgend: 73168 registered voters, 16516 votes cast
+Bridgwater: 71571 registered voters, 12281 votes cast
+Bridlington and The Wolds: 74438 registered voters, 14846 votes cast
+Brigg and Immingham: 73099 registered voters, 15905 votes cast
+Brighton Kemptown and Peacehaven: 68784 registered voters, 17893 votes cast
+Brighton Pavilion: 74786 registered voters, 28809 votes cast
+Bristol Central: 62735 registered voters, 24539 votes cast
+Bristol East: 75917 registered voters, 20748 votes cast
+Bristol North East: 70076 registered voters, 19004 votes cast
+Bristol North West: 74869 registered voters, 24058 votes cast
+Bristol South: 75533 registered voters, 18521 votes cast
+Broadland and Fakenham: 76863 registered voters, 16322 votes cast
+Bromley and Biggin Hill: 70713 registered voters, 15929 votes cast
+Bromsgrove: 76468 registered voters, 16533 votes cast
+Broxbourne: 75210 registered voters, 15810 votes cast
+Broxtowe: 70440 registered voters, 19561 votes cast
+Buckingham and Bletchley: 74832 registered voters, 17602 votes cast
+Burnley: 74954 registered voters, 12598 votes cast
+Burton and Uttoxeter: 77994 registered voters, 16222 votes cast
+Bury North: 77686 registered voters, 19625 votes cast
+Bury South: 75326 registered voters, 19247 votes cast
+Bury St Edmunds and Stowmarket: 78479 registered voters, 16745 votes cast
+Caerfyrddin: 74005 registered voters, 15520 votes cast
+Caerphilly: 72648 registered voters, 14538 votes cast
+Caithness  Sutherland and Easter Ross: 74627 registered voters, 22736 votes cast
+Calder Valley: 77364 registered voters, 22046 votes cast
+Camborne and Redruth: 74342 registered voters, 19360 votes cast
+Cambridge: 70321 registered voters, 19614 votes cast
+Cannock Chase: 76974 registered voters, 15671 votes cast
+Canterbury: 71155 registered voters, 19531 votes cast
+Cardiff East: 72876 registered voters, 15833 votes cast
+Cardiff North: 71460 registered voters, 20849 votes cast
+Cardiff South and Penarth: 73060 registered voters, 17428 votes cast
+Cardiff West: 75697 registered voters, 16442 votes cast
+Carlisle: 77863 registered voters, 18129 votes cast
+Carshalton and Wallington: 74362 registered voters, 20126 votes cast
+Castle Point: 71026 registered voters, 15485 votes cast
+Central Ayrshire: 69413 registered voters, 18091 votes cast
+Central Devon: 75385 registered voters, 16831 votes cast
+Central Suffolk and North Ipswich: 73046 registered voters, 15144 votes cast
+Ceredigion Preseli: 75690 registered voters, 21738 votes cast
+Chatham and Aylesford: 75109 registered voters, 13689 votes cast
+Cheadle: 74383 registered voters, 23681 votes cast
+Chelmsford: 76970 registered voters, 20214 votes cast
+Chelsea and Fulham: 78468 registered voters, 18556 votes cast
+Cheltenham: 76144 registered voters, 25076 votes cast
+Chesham and Amersham: 74889 registered voters, 24422 votes cast
+Chester North and Neston: 70215 registered voters, 22258 votes cast
+Chester South and Eddisbury: 74284 registered voters, 19905 votes cast
+Chesterfield: 71645 registered voters, 19316 votes cast
+Chichester: 78374 registered voters, 25540 votes cast
+Chingford and Woodford Green: 74010 registered voters, 17281 votes cast
+Chippenham: 74107 registered voters, 22552 votes cast
+Chipping Barnet: 78038 registered voters, 21585 votes cast
+Chorley: 74801 registered voters, 0 votes cast
+Christchurch: 71060 registered voters, 16941 votes cast
+Cities of London and Westminster: 73369 registered voters, 15302 votes cast
+City of Durham: 70583 registered voters, 19131 votes cast
+Clacton: 78245 registered voters, 21225 votes cast
+Clapham and Brixton Hill: 83114 registered voters, 24166 votes cast
+Clwyd East: 76637 registered voters, 18484 votes cast
+Clwyd North: 75027 registered voters, 14794 votes cast
+Coatbridge and Bellshill: 72667 registered voters, 19291 votes cast
+Colchester: 78662 registered voters, 18804 votes cast
+Colne Valley: 72638 registered voters, 18970 votes cast
+Congleton: 74243 registered voters, 18875 votes cast
+Corby and East Northamptonshire: 78770 registered voters, 21020 votes cast
+Coventry East: 75773 registered voters, 18308 votes cast
+Coventry North West: 75036 registered voters, 19696 votes cast
+Coventry South: 76232 registered voters, 20361 votes cast
+Cowdenbeath and Kirkcaldy: 71845 registered voters, 18662 votes cast
+Cramlington and Killingworth: 76228 registered voters, 22274 votes cast
+Crawley: 75569 registered voters, 17453 votes cast
+Crewe and Nantwich: 78423 registered voters, 20837 votes cast
+Croydon East: 76595 registered voters, 18541 votes cast
+Croydon South: 74889 registered voters, 19757 votes cast
+Croydon West: 77891 registered voters, 20612 votes cast
+Cumbernauld and Kirkintilloch: 70350 registered voters, 18513 votes cast
+Dagenham and Rainham: 76475 registered voters, 16571 votes cast
+Darlington: 70672 registered voters, 16621 votes cast
+Dartford: 75426 registered voters, 15392 votes cast
+Daventry: 80879 registered voters, 17872 votes cast
+Derby North: 71879 registered voters, 18619 votes cast
+Derby South: 72944 registered voters, 14503 votes cast
+Derbyshire Dales: 73324 registered voters, 17759 votes cast
+Dewsbury and Batley: 71685 registered voters, 0 votes cast
+Didcot and Wantage: 80689 registered voters, 21793 votes cast
+Doncaster Central: 74678 registered voters, 17515 votes cast
+Doncaster East and the Isle of Axholme: 70154 registered voters, 15122 votes cast
+Doncaster North: 69759 registered voters, 16231 votes cast
+Dorking and Horley: 71645 registered voters, 20921 votes cast
+Dover and Deal: 76406 registered voters, 18940 votes cast
+Droitwich and Evesham: 76624 registered voters, 19975 votes cast
+Dudley: 70151 registered voters, 12215 votes cast
+Dulwich and West Norwood: 79894 registered voters, 27356 votes cast
+Dumfries and Galloway: 78541 registered voters, 13527 votes cast
+Dumfriesshire  Clydesdale and Tweeddale: 71900 registered voters, 14999 votes cast
+Dundee Central: 74221 registered voters, 15544 votes cast
+Dunfermline and Dollar: 72824 registered voters, 20336 votes cast
+Dunstable and Leighton Buzzard: 76742 registered voters, 14976 votes cast
+Dwyfor Meirionnydd: 73040 registered voters, 21788 votes cast
+Ealing Central and Acton: 78436 registered voters, 22340 votes cast
+Ealing North: 74820 registered voters, 20663 votes cast
+Ealing Southall: 78669 registered voters, 23000 votes cast
+Earley and Woodley: 73548 registered voters, 18209 votes cast
+Easington: 69395 registered voters, 16774 votes cast
+East Antrim: 73302 registered voters, 11462 votes cast
+East Grinstead and Uckfield: 75385 registered voters, 19319 votes cast
+East Ham: 79219 registered voters, 19570 votes cast
+East Hampshire: 70659 registered voters, 18509 votes cast
+East Kilbride and Strathaven: 76414 registered voters, 22682 votes cast
+East Londonderry: 75707 registered voters, 11506 votes cast
+East Renfrewshire: 74626 registered voters, 21935 votes cast
+East Surrey: 73307 registered voters, 17502 votes cast
+East Thanet: 74927 registered voters, 17054 votes cast
+East Wiltshire: 74139 registered voters, 16849 votes cast
+East Worthing and Shoreham: 74738 registered voters, 22120 votes cast
+Eastbourne: 72590 registered voters, 23742 votes cast
+Eastleigh: 69965 registered voters, 15970 votes cast
+Edinburgh East and Musselburgh: 76188 registered voters, 18790 votes cast
+Edinburgh North and Leith: 78411 registered voters, 20805 votes cast
+Edinburgh South: 70838 registered voters, 24976 votes cast
+Edinburgh South West: 73784 registered voters, 18663 votes cast
+Edinburgh West: 76490 registered voters, 26645 votes cast
+Edmonton and Winchmore Hill: 75792 registered voters, 20520 votes cast
+Ellesmere Port and Bromborough: 70799 registered voters, 24186 votes cast
+Eltham and Chislehurst: 73979 registered voters, 20069 votes cast
+Ely and East Cambridgeshire: 79112 registered voters, 17127 votes cast
+Enfield North: 78770 registered voters, 21368 votes cast
+Epping Forest: 72229 registered voters, 18038 votes cast
+Epsom and Ewell: 76513 registered voters, 20674 votes cast
+Erewash: 71501 registered voters, 17224 votes cast
+Erith and Thamesmead: 78740 registered voters, 22246 votes cast
+Esher and Walton: 74042 registered voters, 28315 votes cast
+Exeter: 67840 registered voters, 18225 votes cast
+Exmouth and Exeter East: 79983 registered voters, 14728 votes cast
+Falkirk: 73584 registered voters, 18343 votes cast
+Fareham and Waterlooville: 76947 registered voters, 17561 votes cast
+Farnham and Bordon: 75920 registered voters, 18951 votes cast
+Faversham and Mid Kent: 74301 registered voters, 14816 votes cast
+Feltham and Heston: 76982 registered voters, 16139 votes cast
+Fermanagh and South Tyrone: 77828 registered voters, 24844 votes cast
+Filton and Bradley Stoke: 77582 registered voters, 22905 votes cast
+Finchley and Golders Green: 77500 registered voters, 21857 votes cast
+Folkestone and Hythe: 70056 registered voters, 15020 votes cast
+Forest of Dean: 72857 registered voters, 16373 votes cast
+Foyle: 73496 registered voters, 15647 votes cast
+Frome and East Somerset: 71593 registered voters, 16580 votes cast
+Fylde: 77100 registered voters, 15917 votes cast
+Gainsborough: 75836 registered voters, 16636 votes cast
+Gateshead Central and Whickham: 69827 registered voters, 18245 votes cast
+Gedling: 77006 registered voters, 23278 votes cast
+Gillingham and Rainham: 73523 registered voters, 15562 votes cast
+Glasgow East: 68987 registered voters, 15543 votes cast
+Glasgow North: 67579 registered voters, 14655 votes cast
+Glasgow North East: 72610 registered voters, 15639 votes cast
+Glasgow South: 70219 registered voters, 17696 votes cast
+Glasgow South West: 68871 registered voters, 15552 votes cast
+Glasgow West: 69028 registered voters, 18621 votes cast
+Glastonbury and Somerton: 73268 registered voters, 20364 votes cast
+Glenrothes and Mid Fife: 70655 registered voters, 15994 votes cast
+Gloucester: 79475 registered voters, 16472 votes cast
+Godalming and Ash: 75816 registered voters, 23293 votes cast
+Goole and Pocklington: 79925 registered voters, 18981 votes cast
+Gordon and Buchan: 69605 registered voters, 14418 votes cast
+Gorton and Denton: 76524 registered voters, 18555 votes cast
+Gosport: 73261 registered voters, 17830 votes cast
+Gower: 76123 registered voters, 20480 votes cast
+Grantham and Bourne: 73285 registered voters, 16770 votes cast
+Gravesham: 73094 registered voters, 16623 votes cast
+Great Grimsby and Cleethorpes: 76157 registered voters, 15336 votes cast
+Great Yarmouth: 73317 registered voters, 14385 votes cast
+Greenwich and Woolwich: 73073 registered voters, 23999 votes cast
+Guildford: 70662 registered voters, 22937 votes cast
+Hackney North and Stoke Newington: 77812 registered voters, 24355 votes cast
+Hackney South and Shoreditch: 78277 registered voters, 24724 votes cast
+Halesowen: 68549 registered voters, 15023 votes cast
+Halifax: 77516 registered voters, 14135 votes cast
+Hamble Valley: 79478 registered voters, 19671 votes cast
+Hamilton and Clyde Valley: 75480 registered voters, 21020 votes cast
+Hammersmith and Chiswick: 75860 registered voters, 24073 votes cast
+Hampstead and Highgate: 80029 registered voters, 23432 votes cast
+Harborough  Oadby and Wigston: 77075 registered voters, 18614 votes cast
+Harlow: 74683 registered voters, 16313 votes cast
+Harpenden and Berkhamsted: 72242 registered voters, 27282 votes cast
+Harrogate and Knaresborough: 77955 registered voters, 23976 votes cast
+Harrow East: 76513 registered voters, 25466 votes cast
+Harrow West: 79902 registered voters, 19833 votes cast
+Hartlepool: 71437 registered voters, 16414 votes cast
+Harwich and North Essex: 76296 registered voters, 16522 votes cast
+Hastings and Rye: 75939 registered voters, 19134 votes cast
+Havant: 72323 registered voters, 12986 votes cast
+Hayes and Harlington: 74405 registered voters, 20405 votes cast
+Hazel Grove: 72846 registered voters, 17328 votes cast
+Hemel Hempstead: 71035 registered voters, 16844 votes cast
+Hendon: 74865 registered voters, 15855 votes cast
+Henley and Thame: 73749 registered voters, 23904 votes cast
+Hereford and South Herefordshire: 72203 registered voters, 14871 votes cast
+Herne Bay and Sandwich: 77869 registered voters, 17243 votes cast
+Hertford and Stortford: 78915 registered voters, 20808 votes cast
+Hertsmere: 73465 registered voters, 21451 votes cast
+Hexham: 76431 registered voters, 23988 votes cast
+Heywood and Middleton North: 73328 registered voters, 15069 votes cast
+High Peak: 74385 registered voters, 22533 votes cast
+Hinckley and Bosworth: 76438 registered voters, 17032 votes cast
+Hitchin: 75877 registered voters, 23067 votes cast
+Holborn and St Pancras: 71300 registered voters, 18884 votes cast
+Honiton and Sidmouth: 75537 registered voters, 23007 votes cast
+Hornchurch and Upminster: 75438 registered voters, 15260 votes cast
+Hornsey and Friern Barnet: 69885 registered voters, 28535 votes cast
+Horsham: 79150 registered voters, 21632 votes cast
+Houghton and Sunderland South: 78448 registered voters, 18837 votes cast
+Hove and Portslade: 74063 registered voters, 27209 votes cast
+Huddersfield: 77795 registered voters, 15101 votes cast
+Huntingdon: 79074 registered voters, 18257 votes cast
+Hyndburn: 67147 registered voters, 12186 votes cast
+Ilford North: 78657 registered voters, 15647 votes cast
+Ilford South: 80993 registered voters, 16537 votes cast
+Inverclyde and Renfrewshire West: 70126 registered voters, 18931 votes cast
+Inverness  Skye and West Ross-shire: 77927 registered voters, 18159 votes cast
+Ipswich: 75396 registered voters, 19099 votes cast
+Isle of Wight East: 55855 registered voters, 10427 votes cast
+Isle of Wight West: 55406 registered voters, 13240 votes cast
+Islington North: 72852 registered voters, 0 votes cast
+Islington South and Finsbury: 74122 registered voters, 22946 votes cast
+Jarrow and Gateshead East: 70272 registered voters, 18856 votes cast
+Keighley and Ilkley: 74367 registered voters, 18589 votes cast
+Kenilworth and Southam: 74923 registered voters, 19395 votes cast
+Kensington and Bayswater: 77306 registered voters, 17025 votes cast
+Kettering: 79360 registered voters, 18009 votes cast
+Kilmarnock and Loudoun: 74628 registered voters, 19055 votes cast
+Kingston and Surbiton: 77353 registered voters, 25870 votes cast
+Kingston upon Hull East: 70650 registered voters, 13047 votes cast
+Kingston upon Hull North and Cottingham: 75280 registered voters, 18480 votes cast
+Kingston upon Hull West and Haltemprice: 73252 registered voters, 17875 votes cast
+Kingswinford and South Staffordshire: 71645 registered voters, 18199 votes cast
+Knowsley: 71964 registered voters, 24243 votes cast
+Lagan Valley: 82201 registered voters, 18618 votes cast
+Lancaster and Wyre: 74760 registered voters, 19315 votes cast
+Leeds Central and Headingley: 70554 registered voters, 15853 votes cast
+Leeds East: 76207 registered voters, 18610 votes cast
+Leeds North East: 70178 registered voters, 23260 votes cast
+Leeds North West: 71592 registered voters, 22882 votes cast
+Leeds South: 75953 registered voters, 17117 votes cast
+Leeds South West and Morley: 71854 registered voters, 17681 votes cast
+Leeds West and Pudsey: 70069 registered voters, 18976 votes cast
+Leicester East: 76560 registered voters, 14526 votes cast
+Leicester South: 70867 registered voters, 0 votes cast
+Leicester West: 74102 registered voters, 15798 votes cast
+Leigh and Atherton: 79978 registered voters, 19971 votes cast
+Lewes: 76166 registered voters, 26895 votes cast
+Lewisham East: 73380 registered voters, 23646 votes cast
+Lewisham North: 74205 registered voters, 25467 votes cast
+Lewisham West and East Dulwich: 69386 registered voters, 27406 votes cast
+Leyton and Wanstead: 71491 registered voters, 20755 votes cast
+Lichfield: 76118 registered voters, 17232 votes cast
+Lincoln: 72315 registered voters, 18470 votes cast
+Liverpool Garston: 69282 registered voters, 24510 votes cast
+Liverpool Riverside: 71380 registered voters, 20039 votes cast
+Liverpool Walton: 69317 registered voters, 26032 votes cast
+Liverpool Wavertree: 70581 registered voters, 23077 votes cast
+Liverpool West Derby: 69934 registered voters, 25302 votes cast
+Livingston: 78043 registered voters, 18324 votes cast
+Llanelli: 71538 registered voters, 12751 votes cast
+Lothian East: 75456 registered voters, 23555 votes cast
+Loughborough: 68961 registered voters, 17249 votes cast
+Louth and Horncastle: 76880 registered voters, 17441 votes cast
+Lowestoft: 74332 registered voters, 14464 votes cast
+Luton North: 74866 registered voters, 14677 votes cast
+Luton South and South Bedfordshire: 77312 registered voters, 13593 votes cast
+Macclesfield: 76416 registered voters, 24672 votes cast
+Maidenhead: 75687 registered voters, 21895 votes cast
+Maidstone and Malling: 76449 registered voters, 14146 votes cast
+Makerfield: 76641 registered voters, 18202 votes cast
+Maldon: 78282 registered voters, 19374 votes cast
+Manchester Central: 85204 registered voters, 20184 votes cast
+Manchester Rusholme: 72608 registered voters, 15054 votes cast
+Manchester Withington: 70555 registered voters, 22066 votes cast
+Mansfield: 74535 registered voters, 16048 votes cast
+Melksham and Devizes: 73482 registered voters, 20031 votes cast
+Melton and Syston: 74316 registered voters, 17526 votes cast
+Meriden and Solihull East: 73659 registered voters, 16792 votes cast
+Merthyr Tydfil and Aberdare: 74460 registered voters, 15791 votes cast
+Mid and South Pembrokeshire: 79033 registered voters, 16505 votes cast
+Mid Bedfordshire: 75457 registered voters, 16912 votes cast
+Mid Buckinghamshire: 75622 registered voters, 20150 votes cast
+Mid Cheshire: 70384 registered voters, 18457 votes cast
+Mid Derbyshire: 69917 registered voters, 17346 votes cast
+Mid Dorset and North Poole: 75294 registered voters, 21442 votes cast
+Mid Dunbartonshire: 73603 registered voters, 22349 votes cast
+Mid Leicestershire: 75924 registered voters, 17735 votes cast
+Mid Norfolk: 75238 registered voters, 16770 votes cast
+Mid Sussex: 75969 registered voters, 21136 votes cast
+Mid Ulster: 74000 registered voters, 24085 votes cast
+Middlesbrough and Thornaby East: 75123 registered voters, 16238 votes cast
+Middlesbrough South and East Cleveland: 70331 registered voters, 16468 votes cast
+Midlothian: 73554 registered voters, 21480 votes cast
+Milton Keynes Central: 81078 registered voters, 20209 votes cast
+Milton Keynes North: 70709 registered voters, 19318 votes cast
+Mitcham and Morden: 77282 registered voters, 25085 votes cast
+Monmouthshire: 74823 registered voters, 21010 votes cast
+Montgomeryshire and Glynd?r: 74039 registered voters, 12709 votes cast
+Moray West  Nairn and Strathspey: 77243 registered voters, 14961 votes cast
+Morecambe and Lunesdale: 76424 registered voters, 19603 votes cast
+Motherwell  Wishaw and Carluke: 71777 registered voters, 19168 votes cast
+Na h-Eileanan an Iar: 21325 registered voters, 6692 votes cast
+Neath and Swansea East: 76291 registered voters, 16797 votes cast
+New Forest East: 70618 registered voters, 17412 votes cast
+New Forest West: 68644 registered voters, 16412 votes cast
+Newark: 79783 registered voters, 20968 votes cast
+Newbury: 71982 registered voters, 19645 votes cast
+Newcastle upon Tyne Central and West: 76822 registered voters, 18875 votes cast
+Newcastle upon Tyne East and Wallsend: 76245 registered voters, 21200 votes cast
+Newcastle upon Tyne North: 74768 registered voters, 24440 votes cast
+Newcastle-under-Lyme: 67815 registered voters, 15992 votes cast
+Newport East: 76683 registered voters, 16370 votes cast
+Newport West and Islwyn: 75785 registered voters, 17409 votes cast
+Newry and Armagh: 78244 registered voters, 22299 votes cast
+Newton Abbot: 73885 registered voters, 15201 votes cast
+Newton Aycliffe and Spennymoor: 72215 registered voters, 18394 votes cast
+Normanton and Hemsworth: 75645 registered voters, 17275 votes cast
+North Antrim: 74697 registered voters, 0 votes cast
+North Ayrshire and Arran: 72176 registered voters, 16821 votes cast
+North Bedfordshire: 78850 registered voters, 19981 votes cast
+North Cornwall: 76741 registered voters, 24094 votes cast
+North Cotswolds: 73203 registered voters, 17426 votes cast
+North Devon: 79079 registered voters, 21820 votes cast
+North Dorset: 72690 registered voters, 18208 votes cast
+North Down: 73885 registered voters, 0 votes cast
+North Durham: 73226 registered voters, 16562 votes cast
+North East Cambridgeshire: 71511 registered voters, 16246 votes cast
+North East Derbyshire: 73234 registered voters, 17591 votes cast
+North East Fife: 69762 registered voters, 23384 votes cast
+North East Hampshire: 76923 registered voters, 21178 votes cast
+North East Hertfordshire: 77697 registered voters, 18358 votes cast
+North East Somerset and Hanham: 73889 registered voters, 20739 votes cast
+North Herefordshire: 72797 registered voters, 21736 votes cast
+North Norfolk: 71438 registered voters, 19488 votes cast
+North Northumberland: 74190 registered voters, 17855 votes cast
+North Shropshire: 77573 registered voters, 26214 votes cast
+North Somerset: 74426 registered voters, 19138 votes cast
+North Warwickshire and Bedworth: 69752 registered voters, 14727 votes cast
+North West Cambridgeshire: 75915 registered voters, 14785 votes cast
+North West Essex: 79698 registered voters, 19360 votes cast
+North West Hampshire: 78629 registered voters, 17770 votes cast
+North West Leicestershire: 77750 registered voters, 16871 votes cast
+North West Norfolk: 74415 registered voters, 16097 votes cast
+Northampton North: 75575 registered voters, 18209 votes cast
+Northampton South: 70393 registered voters, 16890 votes cast
+Norwich North: 73717 registered voters, 20794 votes cast
+Norwich South: 76296 registered voters, 21484 votes cast
+Nottingham East: 69395 registered voters, 19494 votes cast
+Nottingham North and Kimberley: 73768 registered voters, 16480 votes cast
+Nottingham South: 64255 registered voters, 15579 votes cast
+Nuneaton: 71843 registered voters, 15216 votes cast
+Old Bexley and Sidcup: 73198 registered voters, 17910 votes cast
+Oldham East and Saddleworth: 73460 registered voters, 14091 votes cast
+Oldham West  Chadderton and Royton: 76031 registered voters, 13232 votes cast
+Orkney and Shetland: 34236 registered voters, 11392 votes cast
+Orpington: 71284 registered voters, 17504 votes cast
+Ossett and Denby Dale: 72312 registered voters, 17232 votes cast
+Oxford East: 71845 registered voters, 19541 votes cast
+Oxford West and Abingdon: 69851 registered voters, 23414 votes cast
+Paisley and Renfrewshire North: 71103 registered voters, 19561 votes cast
+Paisley and Renfrewshire South: 71574 registered voters, 19583 votes cast
+Peckham: 72127 registered voters, 22813 votes cast
+Pendle and Clitheroe: 78796 registered voters, 16129 votes cast
+Penistone and Stocksbridge: 70435 registered voters, 19169 votes cast
+Penrith and Solway: 77935 registered voters, 19986 votes cast
+Perth and Kinross-shire: 77261 registered voters, 18928 votes cast
+Peterborough: 73378 registered voters, 13418 votes cast
+Plymouth Moor View: 74724 registered voters, 17665 votes cast
+Plymouth Sutton and Devonport: 75313 registered voters, 20795 votes cast
+Pontefract  Castleford and Knottingley: 74618 registered voters, 17089 votes cast
+Pontypridd: 75951 registered voters, 16225 votes cast
+Poole: 72509 registered voters, 14168 votes cast
+Poplar and Limehouse: 84116 registered voters, 18535 votes cast
+Portsmouth North: 70446 registered voters, 14495 votes cast
+Portsmouth South: 73711 registered voters, 18857 votes cast
+Preston: 77400 registered voters, 14006 votes cast
+Putney: 72686 registered voters, 24113 votes cast
+Queen's Park and Maida Vale: 75558 registered voters, 20126 votes cast
+Rawmarsh and Conisbrough: 69133 registered voters, 16612 votes cast
+Rayleigh and Wickford: 76576 registered voters, 17756 votes cast
+Reading Central: 73600 registered voters, 21598 votes cast
+Reading West and Mid Berkshire: 68781 registered voters, 16273 votes cast
+Redcar: 70241 registered voters, 15663 votes cast
+Redditch: 71042 registered voters, 14810 votes cast
+Reigate: 77102 registered voters, 18822 votes cast
+Rhondda and Ogmore: 74493 registered voters, 17118 votes cast
+Ribble Valley: 80484 registered voters, 18177 votes cast
+Richmond and Northallerton: 73886 registered voters, 23059 votes cast
+Richmond Park: 74988 registered voters, 28528 votes cast
+Rochdale: 72507 registered voters, 13027 votes cast
+Rochester and Strood: 74257 registered voters, 15403 votes cast
+Romford: 72928 registered voters, 15339 votes cast
+Romsey and Southampton North: 71871 registered voters, 19893 votes cast
+Rossendale and Darwen: 74440 registered voters, 18247 votes cast
+Rother Valley: 69459 registered voters, 16023 votes cast
+Rotherham: 75929 registered voters, 16671 votes cast
+Rugby: 74901 registered voters, 19533 votes cast
+Ruislip  Northwood and Pinner: 71683 registered voters, 21366 votes cast
+Runcorn and Helsby: 70801 registered voters, 22358 votes cast
+Runnymede and Weybridge: 73610 registered voters, 18442 votes cast
+Rushcliffe: 79160 registered voters, 25291 votes cast
+Rutherglen: 72674 registered voters, 21460 votes cast
+Rutland and Stamford: 71763 registered voters, 21248 votes cast
+Salford: 83633 registered voters, 21132 votes cast
+Salisbury: 71802 registered voters, 17110 votes cast
+Scarborough and Whitby: 74544 registered voters, 17758 votes cast
+Scunthorpe: 73855 registered voters, 15484 votes cast
+Sefton Central: 74284 registered voters, 26772 votes cast
+Selby: 78043 registered voters, 22788 votes cast
+Sevenoaks: 73708 registered voters, 18328 votes cast
+Sheffield Brightside and Hillsborough: 70389 registered voters, 16301 votes cast
+Sheffield Central: 60594 registered voters, 16569 votes cast
+Sheffield Hallam: 72900 registered voters, 23875 votes cast
+Sheffield Heeley: 73452 registered voters, 21230 votes cast
+Sheffield South East: 74156 registered voters, 18710 votes cast
+Sherwood Forest: 78896 registered voters, 18841 votes cast
+Shipley: 74130 registered voters, 21738 votes cast
+Shrewsbury: 76599 registered voters, 22932 votes cast
+Sittingbourne and Sheppey: 79067 registered voters, 11919 votes cast
+Skipton and Ripon: 79238 registered voters, 18833 votes cast
+Sleaford and North Hykeham: 75651 registered voters, 17348 votes cast
+Slough: 81295 registered voters, 14666 votes cast
+Smethwick: 72863 registered voters, 16858 votes cast
+Solihull West and Shirley: 71816 registered voters, 16284 votes cast
+South Antrim: 77058 registered voters, 16311 votes cast
+South Basildon and East Thurrock: 72673 registered voters, 12178 votes cast
+South Cambridgeshire: 77327 registered voters, 25704 votes cast
+South Cotswolds: 71971 registered voters, 22961 votes cast
+South Derbyshire: 73714 registered voters, 17734 votes cast
+South Devon: 72261 registered voters, 22540 votes cast
+South Dorset: 75924 registered voters, 15659 votes cast
+South Down: 76248 registered voters, 19698 votes cast
+South East Cornwall: 72654 registered voters, 15670 votes cast
+South Holland and The Deepings: 78473 registered voters, 17462 votes cast
+South Leicestershire: 78511 registered voters, 18264 votes cast
+South Norfolk: 74006 registered voters, 17353 votes cast
+South Northamptonshire: 78233 registered voters, 19191 votes cast
+South Ribble: 73420 registered voters, 19840 votes cast
+South Shields: 68366 registered voters, 15122 votes cast
+South Shropshire: 76677 registered voters, 17628 votes cast
+South Suffolk: 74619 registered voters, 16082 votes cast
+South West Devon: 77600 registered voters, 17916 votes cast
+South West Hertfordshire: 71737 registered voters, 16458 votes cast
+South West Norfolk: 74724 registered voters, 11847 votes cast
+South West Wiltshire: 73071 registered voters, 15617 votes cast
+Southampton Itchen: 68379 registered voters, 15782 votes cast
+Southampton Test: 65520 registered voters, 15945 votes cast
+Southend East and Rochford: 70217 registered voters, 15395 votes cast
+Southend West and Leigh: 75154 registered voters, 16739 votes cast
+Southgate and Wood Green: 77542 registered voters, 23337 votes cast
+Southport: 73641 registered voters, 17252 votes cast
+Spelthorne: 73782 registered voters, 14038 votes cast
+Spen Valley: 72642 registered voters, 16076 votes cast
+St Albans: 72739 registered voters, 29222 votes cast
+St Austell and Newquay: 76076 registered voters, 15958 votes cast
+St Helens North: 75483 registered voters, 21284 votes cast
+St Helens South and Whiston: 71569 registered voters, 18919 votes cast
+St Ives: 69978 registered voters, 25033 votes cast
+St Neots and Mid Cambridgeshire: 78115 registered voters, 19517 votes cast
+Stafford: 70608 registered voters, 18531 votes cast
+Staffordshire Moorlands: 69892 registered voters, 15310 votes cast
+Stalybridge and Hyde: 72265 registered voters, 16320 votes cast
+Stevenage: 70976 registered voters, 17698 votes cast
+Stirling and Strathallan: 76284 registered voters, 16856 votes cast
+Stockport: 76632 registered voters, 21787 votes cast
+Stockton North: 70242 registered voters, 17128 votes cast
+Stockton West: 71868 registered voters, 20372 votes cast
+Stoke-on-Trent Central: 73812 registered voters, 14950 votes cast
+Stoke-on-Trent North: 69854 registered voters, 14579 votes cast
+Stoke-on-Trent South: 70002 registered voters, 14221 votes cast
+Stone  Great Wyrley and Penkridge: 71561 registered voters, 19880 votes cast
+Stourbridge: 68311 registered voters, 15338 votes cast
+Strangford: 74525 registered voters, 15559 votes cast
+Stratford and Bow: 80735 registered voters, 19145 votes cast
+Stratford-on-Avon: 75714 registered voters, 23450 votes cast
+Streatham and Croydon North: 82829 registered voters, 23232 votes cast
+Stretford and Urmston: 75153 registered voters, 22642 votes cast
+Stroud: 77905 registered voters, 25607 votes cast
+Suffolk Coastal: 74522 registered voters, 15672 votes cast
+Sunderland Central: 76145 registered voters, 16852 votes cast
+Surrey Heath: 71934 registered voters, 21387 votes cast
+Sussex Weald: 72885 registered voters, 16758 votes cast
+Sutton and Cheam: 72303 registered voters, 17576 votes cast
+Sutton Coldfield: 74080 registered voters, 18502 votes cast
+Swansea West: 74236 registered voters, 14761 votes cast
+Swindon North: 73224 registered voters, 17930 votes cast
+Swindon South: 72575 registered voters, 21676 votes cast
+Tamworth: 75055 registered voters, 15338 votes cast
+Tatton: 75978 registered voters, 19956 votes cast
+Taunton and Wellington: 78680 registered voters, 24331 votes cast
+Telford: 73808 registered voters, 18212 votes cast
+Tewkesbury: 73458 registered voters, 20730 votes cast
+The Wrekin: 78942 registered voters, 16320 votes cast
+Thirsk and Malton: 78468 registered voters, 19544 votes cast
+Thornbury and Yate: 78192 registered voters, 20815 votes cast
+Thurrock: 73392 registered voters, 16050 votes cast
+Tipton and Wednesbury: 74098 registered voters, 11755 votes cast
+Tiverton and Minehead: 72087 registered voters, 18326 votes cast
+Tonbridge: 72799 registered voters, 20517 votes cast
+Tooting: 76168 registered voters, 29209 votes cast
+Torbay: 76185 registered voters, 18937 votes cast
+Torfaen: 71738 registered voters, 15176 votes cast
+Torridge and Tavistock: 74727 registered voters, 16049 votes cast
+Tottenham: 75906 registered voters, 23066 votes cast
+Truro and Falmouth: 72982 registered voters, 20783 votes cast
+Tunbridge Wells: 78738 registered voters, 23661 votes cast
+Twickenham: 74980 registered voters, 30185 votes cast
+Tynemouth: 73194 registered voters, 24491 votes cast
+Upper Bann: 81249 registered voters, 21642 votes cast
+Uxbridge and South Ruislip: 74745 registered voters, 16599 votes cast
+Vale of Glamorgan: 74465 registered voters, 17740 votes cast
+Vauxhall and Camberwell Green: 77527 registered voters, 21528 votes cast
+Wakefield and Rothwell: 75067 registered voters, 17773 votes cast
+Wallasey: 74082 registered voters, 24674 votes cast
+Walsall and Bloxwich: 74951 registered voters, 12514 votes cast
+Walthamstow: 74474 registered voters, 27172 votes cast
+Warrington North: 70601 registered voters, 18730 votes cast
+Warrington South: 78394 registered voters, 23201 votes cast
+Warwick and Leamington: 76294 registered voters, 23975 votes cast
+Washington and Gateshead South: 70972 registered voters, 17682 votes cast
+Watford: 73100 registered voters, 15708 votes cast
+Waveney Valley: 73056 registered voters, 20467 votes cast
+Weald of Kent: 75987 registered voters, 20202 votes cast
+Wellingborough and Rushden: 77542 registered voters, 17734 votes cast
+Wells and Mendip Hills: 73538 registered voters, 23622 votes cast
+Welwyn Hatfield: 75259 registered voters, 19877 votes cast
+West Aberdeenshire and Kincardine: 72994 registered voters, 17428 votes cast
+West Bromwich: 74025 registered voters, 16872 votes cast
+West Dorset: 75998 registered voters, 26999 votes cast
+West Dunbartonshire: 69074 registered voters, 19312 votes cast
+West Ham and Beckton: 78964 registered voters, 16434 votes cast
+West Lancashire: 74081 registered voters, 22305 votes cast
+West Suffolk: 77145 registered voters, 15814 votes cast
+West Tyrone: 74269 registered voters, 22711 votes cast
+West Worcestershire: 79246 registered voters, 19783 votes cast
+Westmorland and Lonsdale: 72029 registered voters, 31061 votes cast
+Weston-super-Mare: 71396 registered voters, 16310 votes cast
+Wetherby and Easingwold: 74314 registered voters, 20597 votes cast
+Whitehaven and Workington: 73198 registered voters, 22173 votes cast
+Widnes and Halewood: 70161 registered voters, 23484 votes cast
+Wigan: 77538 registered voters, 19401 votes cast
+Wimbledon: 76334 registered voters, 24790 votes cast
+Winchester: 78289 registered voters, 29939 votes cast
+Windsor: 73334 registered voters, 16483 votes cast
+Wirral West: 72838 registered voters, 23156 votes cast
+Witham: 78991 registered voters, 18827 votes cast
+Witney: 75448 registered voters, 20832 votes cast
+Woking: 72969 registered voters, 24019 votes cast
+Wokingham: 75082 registered voters, 25743 votes cast
+Wolverhampton North East: 70715 registered voters, 14282 votes cast
+Wolverhampton South East: 77473 registered voters, 16800 votes cast
+Wolverhampton West: 77851 registered voters, 19331 votes cast
+Worcester: 74931 registered voters, 18622 votes cast
+Worsley and Eccles: 78643 registered voters, 20277 votes cast
+Worthing West: 77039 registered voters, 20519 votes cast
+Wrexham: 70269 registered voters, 15836 votes cast
+Wycombe: 73415 registered voters, 16035 votes cast
+Wyre Forest: 77329 registered voters, 14489 votes cast
+Wythenshawe and Sale East: 77767 registered voters, 20596 votes cast
+Yeovil: 79918 registered voters, 23765 votes cast
+Ynys Mn: 53141 registered voters, 10590 votes cast
+York Central: 79557 registered voters, 24537 votes cast
+York Outer: 76228 registered voters, 23161 votes cast
+
