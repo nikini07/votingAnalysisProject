@@ -1,4 +1,4 @@
-# 🗳 Voting Analysis System
+# Voting Analysis System
 
 A **Python-based Election Information System** that reads real election data from a CSV file, analyzes results by **candidates, parties, and constituencies**, and presents insights through text-based menus and visualizations.
 
