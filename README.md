@@ -2,8 +2,6 @@
 
 A **Python-based Election Information System** that reads real election data from a CSV file, analyzes results by **candidates, parties, and constituencies**, and presents insights through text-based menus and visualizations.
 
----
-
 ##  Features
 - **Candidate Analysis**
   - View candidate details (name, gender, constituency, party).
@@ -20,14 +18,10 @@ A **Python-based Election Information System** that reads real election data fro
 - **Visualization**
   - Generates a **pie chart** of the top 5 parties’ vote share (with "Other" category).
 
----
-
-## 🛠 Technologies Used
+##  Technologies Used
 - **Python 3**
 - **CSV** (for data input)
 - **Matplotlib** + **NumPy** (for charts and calculations)
-
----
 
 ##  Project Structure
 ```plaintext
@@ -63,12 +57,9 @@ VotingAnalysisSystem/
    ```bash
    python voting_analysis.py
    ```
----
 
 ## Future Improvements
 - Add error handling for incomplete/malformed CSV data.
 - Support ranked-choice or proportional representation.
 - Export results to Excel or PDF.
 - Web-based interface for interactive analysis.
-
-⸻
